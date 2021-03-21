@@ -1,2 +1,2 @@
 # node-link-diagrams-vs.-adjacency-matrix
-Open \<node-link-diagrams-vs.-adjacency-matrix\> file to look at.
+Open \<0716221.html\> file to look at file of node-link-diagram vs. adjacency-matrix.
