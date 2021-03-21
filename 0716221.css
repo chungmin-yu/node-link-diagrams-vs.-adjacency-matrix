@@ -1,0 +1,42 @@
+.grid {
+  stroke:#87CEFA;
+	fill: #000000;
+}   
+#svg1{
+	position: absolute;
+  top: 60px;
+}
+#svg2{
+	position: absolute;
+  left: 460px;
+  top: -10px;
+}
+#firstline{
+  position: absolute;
+  left: 17px;
+  top: -10px;
+  font-size: 1.5em;
+  font-family: sans-serif;
+  color: #600000;
+}
+#secondline{
+  position: absolute;
+  left: 17px;
+  top: 25px;
+  font-size: 1em;
+  font-family: sans-serif;
+  color:#A9A9A9;
+}
+#thirdline{
+  position: absolute;
+  left: 17px;
+  top: 42px;
+  font-size: 1em;
+  font-family: sans-serif;
+  color:#A9A9A9;
+}
+
+
+
+
+
